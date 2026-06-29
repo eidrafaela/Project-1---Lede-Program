@@ -28,7 +28,7 @@ Slaughterhouse addresses were also provided by MAPA and cross-checked against
 Brazil's CNPJ registry (Federal Revenue Service).
 
 - [MAPA - Adresses of the slaughter houses](https://drive.google.com/file/d/1hgv0q9O1M15ls4hfVkf5PmSddF5MiT84/view?usp=sharing)
-- [MAPA - sDonkey slaughter from 2021 through 2025](https://docs.google.com/spreadsheets/d/1TmJY0HdhNaQFhXvHI2DforLa_noQF60n/edit?usp=sharing)
+- [MAPA - Donkey slaughter from 2021 through 2025](https://docs.google.com/spreadsheets/d/1TmJY0HdhNaQFhXvHI2DforLa_noQF60n/edit?usp=sharing)
 - [Congressional request (PDF)](https://drive.google.com/file/d/1QNeP4gE9_y6IDMo4P4UZMRuD-2WnEBD4/view?usp=sharing)
 
 ## Overview of the data analysis process
